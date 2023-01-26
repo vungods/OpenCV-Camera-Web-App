@@ -1,6 +1,0 @@
-opencv-contrib-python
-caer
-mediapipe
-matplotlib
-flask
-gunicorn
